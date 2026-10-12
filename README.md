@@ -36,3 +36,5 @@ The repository is for studying arithmetic and solver techniques that appear in r
 ## License
 
 This project is distributed under the Mozilla Public License 2.0. See [`LICENSE`](LICENSE).
+
+ ***⭐***
